@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "types": [],
+    "lib": [
+      "ES2020"
+    ],
+    "generateCpuProfile": "tsc-build.cpuprofile",
+    "extendedDiagnostics": true,
+    "esModuleInterop": true,
+    "noEmit": true,
+    "skipLibCheck": true
+  },
+  "files": [
+    "index.ts"
+  ]
+}
